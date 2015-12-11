@@ -1,6 +1,6 @@
 {
   "name": "matheuspoleza",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Matheus Poleza, the person.",
   "scripts": {
     "postinstall": "cat info.json"
