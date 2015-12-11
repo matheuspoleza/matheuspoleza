@@ -18,7 +18,7 @@ To get my contact information.
 
 Thanks to [John K Paul](https://github.com/johnkpaul/johnkpaul),
 [Guillermo Rauch](https://github.com/rauchg/rauchg) and [Fernando Daciuk](https://github.com/fdaciuk/fdaciuk)
-for the ideia!
+for the idea!
 
 ## License
 
