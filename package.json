@@ -1,23 +1,24 @@
 {
-  "name": "fdaciuk",
-  "version": "1.1.1",
-  "description": "Fernando Daciuk, the person.",
+  "name": "matheuspoleza",
+  "version": "0.0.1",
+  "description": "Matheus Poleza, the person.",
   "main": "index.js",
   "scripts": {
     "postinstall": "cat info.json"
   },
   "keywords": [
     "person",
-    "contact"
+    "contact",
+    "matheuspoleza"
   ],
-  "author": "Fernando Daciuk",
+  "author": "Matheus Poleza",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fdaciuk/fdaciuk.git"
+    "url": "git+https://github.com/matheuspoleza/matheuspoleza.git"
   },
   "bugs": {
-    "url": "https://github.com/fdaciuk/fdaciuk/issues"
+    "url": "https://github.com/matheuspoleza/matheuspoleza/issues"
   },
-  "homepage": "https://github.com/fdaciuk/fdaciuk#readme"
+  "homepage": "https://github.com/matheuspoleza/matheuspoleza#readme"
 }
