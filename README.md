@@ -2,6 +2,8 @@
 
 > Matheus Poleza, the person.
 
+![](assets/usage.gif)
+
 ```sh
 npm install matheuspoleza
 ```
