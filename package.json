@@ -2,7 +2,6 @@
   "name": "matheuspoleza",
   "version": "0.0.1",
   "description": "Matheus Poleza, the person.",
-  "main": "index.js",
   "scripts": {
     "postinstall": "cat info.json"
   },
